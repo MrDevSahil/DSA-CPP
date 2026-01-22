@@ -1,6 +1,10 @@
 #include <iostream>
 #include <vector>
 
+/**
+  * All elements before 'index' are non-zero and 'in original order'
+  **/
+
 using namespace std;
 
 void pushZerosToEnd(vector<int> &arr) {

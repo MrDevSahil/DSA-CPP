@@ -2,6 +2,12 @@
 #include <iostream>
 #include <vector>
 
+/**
+ * What exactly do you reset, and why?
+ * -> Kadane resets because a negative prefix can never help a future subarray.
+ * Reset logic: currentSum = max(arr[i], currentSum + arr[i])
+ **/
+
 using namespace std;
 
 // Kadane's algorithm

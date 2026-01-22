@@ -2,6 +2,10 @@
 #include <unordered_set>
 #include <vector>
 
+/**
+  * Tip: If you have to solve this problem without extra space → sort first → O(n log n) or use bitset if constraints are tight
+  **/
+
 using namespace std;
 
 bool containsDublicate(vector<int> &nums) {
