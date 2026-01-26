@@ -4,6 +4,10 @@
 
 using namespace std;
 
+/**
+ * Backtrack and excludes all duplicate subsets.
+ **/
+
 void getallsubsets(vector<int> &nums, vector<int> &ans, int i,
                    vector<vector<int>> &allsubsets) {
   if (i == nums.size()) {
@@ -34,7 +38,7 @@ vector<vector<int>> subsetsWithDup(vector<int> &nums) {
 }
 
 int main() {
-  vector<int> nums = {1, 2, 3};
+  vector<int> nums = {1, 2, 2};
   vector<vector<int>> ans;
 
   ans = subsetsWithDup(nums);

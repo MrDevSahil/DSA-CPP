@@ -3,6 +3,10 @@
 
 using namespace std;
 
+/**
+ * Array should be sorted to perform a binary search.
+ **/
+
 int searchNum(vector<int> nums, int target, int str, int end) {
   if (str > end) {
     return -1;

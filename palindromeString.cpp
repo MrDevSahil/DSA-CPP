@@ -2,6 +2,18 @@
 
 using namespace std;
 
+/** Basic Palindrome Check */
+// bool isPalindrome(string s) {
+//     int start = 0, end = s.length() - 1;
+//     while (start < end) {
+//         if (s[start] != s[end]) return false;
+//         start++;
+//         end--;
+//     }
+//     return true;
+// }
+
+/** Alphanumeric Palindrome Check */
 bool isAlphaNum(char ch) {
   return ch >= '0' && ch <= '9' || tolower(ch) >= 'a' && tolower(ch) <= 'z';
 }

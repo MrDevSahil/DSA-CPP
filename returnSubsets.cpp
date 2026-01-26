@@ -3,6 +3,10 @@
 
 using namespace std;
 
+/**
+ * Backtrack and include all possible subsets.
+ **/
+
 void getAllSubsets(vector<int> &nums, vector<int> &ans, int i,
                    vector<vector<int>> &allSubsets) {
   if (i == nums.size()) {
@@ -29,7 +33,7 @@ vector<vector<int>> subsets(vector<int> &nums) {
 }
 
 int main() {
-  vector<int> nums = {1, 2, 3};
+  vector<int> nums = {1, 2, 2};
   vector<vector<int>> ans;
 
   ans = subsets(nums);

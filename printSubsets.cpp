@@ -3,6 +3,10 @@
 
 using namespace std;
 
+/**
+ * Backtrack and print all possible subsets.
+ **/
+
 void printSubsets(vector<int> &arr, vector<int> &ans, int i) {
   if (i == arr.size()) {
     for (int num : ans) {

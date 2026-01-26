@@ -4,7 +4,7 @@
 | --- | ---------- | ------------------------------------------------------------- | ------------ | -------- |
 | 1   | 2024-10-06 | Hello World                                                   | -            |          |
 | 2   | 2024-10-07 | Maximum & Minimum in an Array                                 | Array        |          |
-| 3   | 2024-10-08 | Reverse an Array                                              | Vector       |          |
+| 3   | 2024-10-08 | Reverse an Array                                              | Vector       | 1        |
 | 4   | 2024-10-09 | Maximun Subarray Sum                                          | -            | 1        |
 | 5   | 2024-10-12 | Contains Dublicate                                            | -            | 1        |
 |     | -          | Repeated and Missing Number                                   | -            | 1        |
@@ -24,7 +24,7 @@
 | 12  | 2024-10-23 | Sort an Array                                                 | -            |          |
 | 13  | 2024-10-28 | Remove Occurance of Substring                                 | String       |          |
 |     | -          | Reverse a String                                              | -            |          |
-|     | -          | Validate String Palindrome                                    | -            |          |
+|     | -          | Validate String Palindrome                                    | -            | 1        |
 | 14  | 2024-10-29 | Permutation in a String                                       | -            |          |
 |     | -          | Reverse Words of a String                                     | -            |          |
 |     | -          | String Compression                                            | -            |          |
@@ -58,14 +58,14 @@
 | 32  | 2024-11-22 | Best Time to Buy Sell Stock II                                | -            |          |
 |     | -          | Longest Common Prefix in a String Array                       | String       |          |
 | 33  | 2024-11-23 | Anagram String                                                | -            |          |
-| 34  | 2024-11-24 | Binary Search Using Recursion                                 | Recursion    |          |
+| 34  | 2024-11-24 | Binary Search Using Recursion                                 | Recursion    | 1        |
 |     | -          | Print Fibonacci Using Recursion                               | -            |          |
 |     | -          | Check if Array is Sorted                                      | -            |          |
 | 35  | 2024-11-25 | Group Anagrams                                                | String       |          |
 | 36  | 2024-11-25 | Kth Smallest Absolute Difference                              | Array        |          |
-| 37  | 2024-12-01 | Print All Subsets Using Recursion Backtracking                | Backtracking |          |
-|     | -          | Return All Subsets Using Recursion Backtracking               | -            |          |
-|     | -          | Return All Non-Repeating Subsets Using Recursion Backtracking | -            |          |
+| 37  | 2024-12-01 | Print All Subsets Using Recursion Backtracking                | Backtracking | 1        |
+|     | -          | Return All Subsets Using Recursion Backtracking               | -            | 1        |
+|     | -          | Return All Non-Repeating Subsets Using Recursion Backtracking | -            | 1        |
 | 38  | 2024-12-02 | Print All Permutations of a Number                            | -            |          |
 |     | -          | Print All Permutations of a string                            | -            |          |
 |     |            | Roman to Integer                                              | Numbers      |          |
