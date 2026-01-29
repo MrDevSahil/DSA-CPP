@@ -3,6 +3,10 @@
 
 using namespace std;
 
+/**
+ * Moore's voting algorithm
+ **/
+
 int majorityElement(vector<int> &nums) {
   int freq = 0, ans = nums[0];
 
