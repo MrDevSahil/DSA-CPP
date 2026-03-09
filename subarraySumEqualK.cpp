@@ -9,6 +9,7 @@ int subarraySum(vector<int> &nums, int k) {
   int n = nums.size();
   int count = 0;
 
+  /**\ Brute Force Approach - O(n^2) time /**\
   // for (int i = 0; i < n; i++) {
   //   int sum = 0;
   //   for (int j = i; j < n; j++) {
@@ -18,6 +19,7 @@ int subarraySum(vector<int> &nums, int k) {
   //   }
   // }
 
+  /**\ Hash Map Approach - O(n) time & space /**\
   // unordered_map<int, int> prefixSumFreq;
   // prefixSumFreq[0] = 1;
   // int prefixSum = 0;
