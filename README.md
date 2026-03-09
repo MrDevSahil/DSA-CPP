@@ -81,6 +81,8 @@
 | 46  | 2024-12-29 | Count Inversions                                              | -            |          |
 |     | -          | Knights Tour                                                  | -            |          |
 | 47  | 2025-01-04 | Encapsulation                                                 | OOPS         |          |
-|     | 2025-01-04 | Inheritance                                                   | OOPS         |          |
-| 48  | 2025-01-05 | Polymorphism                                                  | OOPS         |          |
-|     | 2025-01-05 | Abstraction                                                   | OOPS         |          |
+|     | 2025-01-04 | Inheritance                                                   | -            |          |
+| 48  | 2025-01-05 | Polymorphism                                                  | -            |          |
+|     | 2025-01-05 | Abstraction                                                   | -            |          |
+| 49  | 2026-03-09 | Linked List                                                   | Linked List  |          |
+|     | 2026-03-09 | Reverse a Linked List                                         | -            |          |
