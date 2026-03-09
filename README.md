@@ -86,3 +86,6 @@
 |     | 2025-01-05 | Abstraction                                                   | -            |          |
 | 49  | 2026-03-09 | Linked List                                                   | Linked List  |          |
 |     | 2026-03-09 | Reverse a Linked List                                         | -            |          |
+|     | 2026-03-09 | Detect cycled Linked List                                     | -            |          |
+|     | 2026-03-09 | Find the middle of a Linked List                              | -            |          |
+|     | 2026-03-09 | Merge two sorted Linked List                                  | -            |          |
