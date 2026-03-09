@@ -17,7 +17,7 @@ int main() {
   head->next = new Node(2);
   head->next->next = new Node(3);
 
-  // Reverse an array using three pointers
+  // Reverse a linked list
   Node *prev = NULL;
   Node *curr = head;
   Node *next;
