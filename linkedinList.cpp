@@ -11,17 +11,17 @@ using namespace std;
  * memory and simply holds the address of the next element. That's it.
  **/
 
+struct Node {
+  int data;
+  Node *next;
+
+  Node(int val) {
+    data = val;
+    next = nullptr;
+  }
+};
+
 int main() {
-  struct Node {
-    int data;
-    Node *next;
-
-    Node(int val) {
-      data = val;
-      next = nullptr;
-    }
-  };
-
   // Build linked list
   Node *head = new Node(1);
   head->next = new Node(2);
