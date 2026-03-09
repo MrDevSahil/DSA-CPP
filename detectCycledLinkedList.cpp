@@ -3,6 +3,7 @@
 using namespace std;
 
 /**
+ * Floyd's Cycle Detection Algorithm also known as Tortoise and Hare algorithm
  * fast pointer = fptr
  * slow pointer = sptr
  **/
