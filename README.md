@@ -85,13 +85,14 @@
 | 46  | 2024-12-29 | Count Inversions                                              | -            |          |
 |     | -          | Knights Tour                                                  | -            |          |
 | 47  | 2025-01-04 | Encapsulation                                                 | OOPS         |          |
-|     | 2025-01-04 | Inheritance                                                   | -            |          |
+|     | -          | Inheritance                                                   | -            |          |
 | 48  | 2025-01-05 | Polymorphism                                                  | -            |          |
-|     | 2025-01-05 | Abstraction                                                   | -            |          |
+|     | -          | Abstraction                                                   | -            |          |
 | 49  | 2026-03-09 | Linked List                                                   | Linked List  |          |
-|     | 2026-03-09 | Reverse a Linked List                                         | -            |          |
-|     | 2026-03-09 | Detect cycled Linked List                                     | -            |          |
-|     | 2026-03-09 | Find the middle of a Linked List                              | -            |          |
-|     | 2026-03-09 | Merge two sorted Linked List                                  | -            |          |
+|     | -          | Reverse a Linked List                                         | -            |          |
+|     | -          | Detect cycled Linked List                                     | -            |          |
+|     | -          | Find the middle of a Linked List                              | -            |          |
+|     | -          | Merge two sorted Linked List                                  | -            |          |
 | 50  | 2026-03-10 | Remove nth node from the end of a Linked List                 | -            |          |
 | 51  | 2026-03-11 | Next Greater Element                                          | Stack        |          |
+|     | -          | Implement queue using two stacks                              | -            |          |
