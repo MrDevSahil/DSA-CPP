@@ -94,3 +94,4 @@
 |     | 2026-03-09 | Find the middle of a Linked List                              | -            |          |
 |     | 2026-03-09 | Merge two sorted Linked List                                  | -            |          |
 | 50  | 2026-03-10 | Remove nth node from the end of a Linked List                 | -            |          |
+| 51  | 2026-03-11 | Next Greater Element                                          | Stack        |          |
